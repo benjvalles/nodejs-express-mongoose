@@ -1,12 +1,12 @@
 
-![GitHub all releases](https://img.shields.io/github/downloads/benjvalles/nodejs-express-mongoose/total?style=for-the-badge) ![GitHub package.json dynamic](https://img.shields.io/github/package-json/keywords/benjvalles/nodejs-express-mongoose?style=for-the-badge)
+[![GitHub all releases](https://img.shields.io/github/downloads/benjvalles/nodejs-express-mongoose/total?style=for-the-badge)](#) [![GitHub package.json dynamic](https://img.shields.io/github/package-json/keywords/benjvalles/nodejs-express-mongoose?style=for-the-badge)](#)
 
 
 # Nodejs Express Mongoose
 
 Esta es una aplicación que ilustra varias funciones utilizadas en el desarrollo web diario, con un toque fino de las mejores prácticas. La aplicación de demostración es una aplicación de blog donde los usuarios pueden registrarse, crear un artículo, eliminar un artículo y agregar comentarios, etc.
 
-> Este es un codigo viejo.
+> Este es un código viejo.
 
 Contenidos:
 
