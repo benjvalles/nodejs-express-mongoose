@@ -1,4 +1,7 @@
 
+![GitHub all releases](https://img.shields.io/github/downloads/benjvalles/nodejs-express-mongoose/total?style=for-the-badge)
+
+
 [![Build Status](https://travis-ci.com/madhums/node-express-mongoose-demo.svg?branch=master)](https://travis-ci.com/madhums/node-express-mongoose-demo)
 [![Dependencies](https://img.shields.io/david/madhums/node-express-mongoose-demo.svg?style=flat)](https://david-dm.org/madhums/node-express-mongoose-demo)
 [![Code Climate](https://codeclimate.com/github/codeclimate/codeclimate/badges/gpa.svg)](https://codeclimate.com/github/madhums/node-express-mongoose-demo)
@@ -14,7 +17,7 @@ Contenidos:
 
 <!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-- [Install](##Install)
+- [Install](#Install)
 - [Tests](#Tests)
 - [Docker](#Docker)
 - [License](#License)
