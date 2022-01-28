@@ -1,0 +1,8 @@
+extends layouts/default
+
+block main
+  h2 500 - Oops! Algo ha salido mal...
+
+block content
+  - if (env == 'development')
+    pre= error
