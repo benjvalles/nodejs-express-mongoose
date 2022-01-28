@@ -2,11 +2,6 @@
 ![GitHub all releases](https://img.shields.io/github/downloads/benjvalles/nodejs-express-mongoose/total?style=for-the-badge)
 
 
-[![Build Status](https://travis-ci.com/madhums/node-express-mongoose-demo.svg?branch=master)](https://travis-ci.com/madhums/node-express-mongoose-demo)
-[![Dependencies](https://img.shields.io/david/madhums/node-express-mongoose-demo.svg?style=flat)](https://david-dm.org/madhums/node-express-mongoose-demo)
-[![Code Climate](https://codeclimate.com/github/codeclimate/codeclimate/badges/gpa.svg)](https://codeclimate.com/github/madhums/node-express-mongoose-demo)
-[![Join Gitter Chat](https://img.shields.io/badge/gitter-join%20chat%20%E2%86%92-brightgreen.svg?style=flat)](https://gitter.im/madhums/node-express-mongoose-demo?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
 # Nodejs Express Mongoose
 
 Esta es una aplicación que ilustra varias funciones utilizadas en el desarrollo web diario, con un toque fino de las mejores prácticas. La aplicación de demostración es una aplicación de blog donde los usuarios pueden registrarse, crear un artículo, eliminar un artículo y agregar comentarios, etc.
